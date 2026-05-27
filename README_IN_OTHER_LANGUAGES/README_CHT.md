@@ -112,7 +112,7 @@ API 擴展是通過編輯程式的動態連結庫導入表來實現的，這樣�
 =========
 
 如果您想支援開發，請考慮捐款。
-
+- PayPal : [paypal.me/YZR2024](https://paypal.me/YZR2024)
 - ERC20 (ETC/USDT) : 0xaF1AfBDE5F226FB229267D8591D757C3E6E0e1A0
 - Bitcoin (BTC/USDT) : 32XgoYcRVy3CTcga3DUBtua5QCToRtS78G
 - Cosmos (ATOM) : cosmos1fs2twk3du55gz3cllwm76cey5rrtnu2v5gcrmr
